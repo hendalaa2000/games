@@ -1,0 +1,112 @@
+/*================================ Satrt large screens =========================*/
+@media (min-width:1201px ) and (max-width: 1440px)
+{
+}
+@media (min-width:1025px) and (max-width:1200px)
+{
+}
+/*============================== Start medium screen of tablet =========================*/
+@media (min-width: 993px) and (max-width: 1024px)
+{
+
+}
+@media (min-width: 769px) and (max-width: 992px)
+{
+}
+@media(max-width:992px)
+{
+
+}
+
+/*============================== Start small screen of mobile =========================*/
+@media(max-width:768px)
+{
+   
+}
+@media (min-width: 577px) and (max-width: 768px)
+{
+    .tickets .tickets-content {
+        padding-top: 0px;
+    }
+    .tickets .tickets-content .tickets-title h5 {
+        font-size: 29px;
+    }
+    .tickets .tickets-content .tickets-icon {
+        justify-content: center;
+    }
+    .inner .box-inner {
+        display: none;
+    }
+}
+@media(max-width:576px)
+{
+    footer .copyright-part .helight {
+        text-align: right;
+    }
+    .tickets .tickets-content {
+        padding-top: 0px;
+    }
+    .tickets .tickets-content .tickets-title h5 {
+        font-size: 26px;
+    }
+    .tickets .tickets-content .tickets-icon {
+        justify-content: center;
+    }
+    .store .store-content .store-title h6 {
+        font-size: 20px;
+    }
+    .players .overlay .players-title h6 {
+        font-size: 15px;
+    }
+    .gallery-top .swiper-wrapper .swiper-slide .swiper-slide-content h4 {
+        font-size: 25px;
+    }
+    .gallery-top .swiper-wrapper .swiper-slide .swiper-slide-content p {
+        font-size: 10px;
+        line-height: 16px;
+    }
+    .gallery-thumbs .swiper-wrapper .swiper-slide span {
+        font-size: 28px;
+    }
+    .gallery-thumbs .swiper-wrapper .swiper-slide h6 {
+        font-size: 9px;
+    }
+    .gallery-thumbs .swiper-wrapper .swiper-slide a {
+        font-size: 11px;
+    }
+    .gallery-thumbs .swiper-wrapper .swiper-slide h5 {
+        font-size: 9px;
+    }
+    .swiper-container-vertical > .swiper-pagination-bullets {
+        left: 27px !important;
+        top: 31% !important;
+    }
+    .swiper-container-rtl .swiper-button-next.swiper-button-white {
+        display: none;
+    }
+    .swiper-container-rtl .swiper-button-prev.swiper-button-white {
+        display: none;
+    }
+    .inner .box-inner {
+        display: none;
+    }
+    .gallery-thumbs .swiper-slide {
+        width: 29% !important;
+    }
+    .players .players-title h6 {
+        font-size: 21px;
+    }
+}
+@media (min-width: 321px) and (max-width: 375px)
+{
+
+}
+@media (max-width: 320px){
+    .news .news-title h6{
+        font-size: 19px;
+    }
+
+}
+@media (max-width: 992px){
+
+}

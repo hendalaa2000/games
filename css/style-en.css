@@ -1,0 +1,33 @@
+*{
+    direction: ltr;
+} 
+.gallery-thumbs {
+    right:70px !important;
+    left: auto !important;
+}
+.secound-inner {
+    right: 0 !important;
+    left: auto;
+} 
+.gallery-thumbs .swiper-wrapper .swiper-slide {
+    margin-right: 0px !important;
+    
+}
+.swiper-button-prev{
+    left: auto;
+}
+.navbar .collapse .form-inline .get {
+    margin-right: 5px;
+  }
+  .navbar .collapse .form-inline .search i {
+    padding-right: 13px;
+  }
+  .navbar .collapse .form-inline .get i {
+    padding-right: 16px;
+  }
+  footer .Icon-inside .icon-input {
+    left: 5px;
+  }
+  .navbar .collapse .navbar-nav .nav-item .nav-link {
+    margin-right: 14px;
+}
